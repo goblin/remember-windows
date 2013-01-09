@@ -13,7 +13,9 @@ To save the current layout:
 ```
 
 To restore all windows back to where they were:
+```
 % ./restore.pl /tmp/saved-windows
+```
 
 ## Known Bugs
 
